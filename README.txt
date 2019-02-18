@@ -29,3 +29,12 @@ bulunduracaktýr :
 
 
 – 5.) özel kargo paketi istenirse : Net ucretin %10 'u kadar ekstra ucret
+
+
+- Extra özellikler 
+
+- iki dil þeçeneði (Türkçe ve English ) 
+
+- Gönderi teslimat süresi
+
+ 
