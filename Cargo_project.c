@@ -286,8 +286,8 @@ int main()
                         C_Data[i][4] = TotFee[i] ;
                     }
 
-                    printf(" \n - Gonderinin minimum ulasma zamani : %d \n " ,Sum3) ;
-                    printf(" \n - Gonderinin maximum ulasma zamani : %d \n " ,Sum4) ;
+                    printf(" \n - Gonderinin minimum ulasma zamani : %d gun \n " ,Sum3) ;
+                    printf(" \n - Gonderinin maximum ulasma zamani : %d gun \n " ,Sum4) ;
 
 
                     Count++ ;
@@ -536,8 +536,8 @@ int main()
                         C_Data[i][4] = TotFee[i] ;
                     }
 
-                    printf(" \n - Minimum delivery time : %d \n " ,Sum3) ;
-                    printf(" \n - Maximum delivery time : %d \n " ,Sum4) ;
+                    printf(" \n - Minimum delivery time : %d day \n " ,Sum3) ;
+                    printf(" \n - Maximum delivery time : %d day \n " ,Sum4) ;
 
 
                     Count++ ;
@@ -1560,7 +1560,7 @@ int MaxDelTime( float LangNum )
         }
     }
 
-    else if (((ProDel == 1) && (ProMod == 2)) || ((ProDel == 2) && (ProMod == 1))) /// Kapidan Subeye yada Subeden Kapýya
+    else if (((ProDel == 1) && (ProMod == 2)) || ((ProDel == 2) && (ProMod == 1))) /// Kapidan Subeye yada Subeden KapÃ½ya
     {
         if( Loca <= 600.0)
         {
