@@ -1110,8 +1110,7 @@ int NetPrice( float LangNum )
                     {
                         printf(" \n -------------------------- \n ") ;
 
-                        printf(" \n - Musteri numarasi sistemde baska bir kullaniciya aittir . \n ") ;
-                        printf(" \n - Lutfen tekrar deneyiniz : ") ;
+                        rintf(" \n - This number is not match , Please enter your customer number : ") ;
 
                         scanf("%f",&ClientNum) ;
                     }
@@ -1128,8 +1127,7 @@ int NetPrice( float LangNum )
                 {
                     printf(" \n -------------------------- \n ") ;
 
-                    printf(" \n - Musteri numarasi sistemde baska bir kullaniciya aittir . \n ") ;
-                    printf(" \n - Lutfen tekrar deneyiniz : ") ;
+                    rintf(" \n - This number is not match , Please enter your customer number : ") ;
 
                     scanf("%f",&ClientNum) ;
                 }
@@ -1484,7 +1482,7 @@ int MinDelTime ( float LangNum  )
 
             printf(" \n -------------------------- \n ") ;
 
-            printf(" \n - Yanlis tuslama , Lutfen arasinda bulunan uzakligi giriniz : ") ;
+            printf(" \n - This number is not match , Please enter new distance : ") ;
             while (getchar() != '\n') ;
 
         }
